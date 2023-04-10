@@ -79,3 +79,4 @@ $ git commit -m 'Initial project version'
 
 **Работа с ветками**
 Чтобы создать новую ветку нужно ввести в теминале команду git branch branch_name
+конфликта нет
