@@ -99,10 +99,3 @@ $ git commit -m 'Initial project version'
 
 [Скрин конфликта](screenshot_12.png)
 
-**Репозитории в GitHub**
-
-*Создание нового репозитория*
-
-1. Создаем новый репозиторий на GitHub
-
-2. В терминале с локальным репозитоием пишем git remote add origin https://github.com/margoshech/instruction_git.git
