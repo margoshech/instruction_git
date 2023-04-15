@@ -107,4 +107,4 @@ $ git commit -m 'Initial project version'
 
 2. В терминале с локальным репозитоием пишем git remote add origin https://github.com/margoshech/instruction_git.git
 
-3.Пушим все изменения в удаленный репозиторий git push
+3.Пушим все изменения в удаленный репозиторий git push --set-upstream origin master
